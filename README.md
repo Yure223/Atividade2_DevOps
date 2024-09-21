@@ -1,2 +1,3 @@
 # Atividade2_DevOps
-Atividade 2 com base no slides da aula 3 de DevOps
+Aluno: Yure Dias
+Matrícula: 2314290152
